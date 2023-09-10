@@ -14,3 +14,6 @@ A list of awesome Erlang frameworks, libraries and software.
 * [cowboy](https://github.com/ninenines/cowboy) - Small, fast, modern HTTP server for Erlang/OTP
 * [mochiweb](https://github.com/mochi/mochiweb) - MochiWeb is an Erlang library for building lightweight HTTP servers
 * [misultin](https://github.com/ostinelli/misultin) - Misultin (pronounced mee-sool-téen) is an Erlang library for building fast lightweight HTTP(S) servers, which also supports websockets
+
+## Distributed Computing, Distributed Applications
+*Frameworks and libraries for distributed computing and applications*
