@@ -8,3 +8,5 @@ A list of awesome .net (c#, f# etc.) frameworks, libraries and software.
 
 ## ORM
 *Object Relational Mapper*
+
+* [nhibernate](https://github.com/nhibernate/nhibernate-core) - NHibernate - Object Relational Mapper
