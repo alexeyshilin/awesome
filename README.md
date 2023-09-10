@@ -19,3 +19,5 @@ A list of awesome .net (c#, f# etc.) frameworks, libraries and software.
 
 ## Parsers
 *parsers libs*
+
+* [fparsec](https://github.com/stephan-tolksdorf/fparsec) - FParsec is a parser combinator library for F#
