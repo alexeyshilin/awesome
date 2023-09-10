@@ -13,3 +13,5 @@ A list of awesome .net (c#, f# etc.) frameworks, libraries and software.
 
 ## ChatBot
 *Framework and libs for building conversation applications*
+
+* [microsoft/botframework](https://github.com/microsoft/botframework-sdk) - Microsoft Bot Framework SDK
