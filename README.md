@@ -15,6 +15,7 @@ A list of awesome Erlang frameworks, libraries and software.
 * [mochiweb](https://github.com/mochi/mochiweb) - MochiWeb is an Erlang library for building lightweight HTTP servers
 * [misultin](https://github.com/ostinelli/misultin) - Misultin (pronounced mee-sool-téen) is an Erlang library for building fast lightweight HTTP(S) servers, which also supports websockets
 * [webmachine](https://github.com/webmachine/webmachine) - webmachine - A REST-based system for building web applications
+* [yaws](https://github.com/erlyaws/yaws) - Yaws - a webserver for dynamic content written in Erlang
 
 ## Distributed Computing, Distributed Applications
 *Frameworks and libraries for distributed computing and applications*
