@@ -10,3 +10,6 @@ A list of awesome Rust frameworks, libraries and software.
 *Event-driven architecture, actor-based model, etc.*
 
 * [slawlor/ractor](https://github.com/slawlor/ractor) - Ractor - A pure-Rust actor framework. Inspired from Erlang's gen_server, with the speed + performance of Rust!
+
+## WebAssembly
+*WebAssembly*
