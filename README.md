@@ -13,3 +13,5 @@ A list of awesome Rust frameworks, libraries and software.
 
 ## WebAssembly
 *WebAssembly*
+
+* [lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
