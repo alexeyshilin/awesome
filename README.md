@@ -17,6 +17,9 @@ A list of awesome .net (c#, f# etc.) frameworks, libraries and software.
 * [microsoft/botframework](https://github.com/microsoft/botframework-sdk) - Microsoft Bot Framework SDK
 * [Microsoft/botbuilder-dotnet](https://github.com/Microsoft/botbuilder-dotnet) - Microsoft.Bot.Builder - code for the .NET version of the Microsoft Bot Framework SDK, which is part of the Microsoft Bot Framework
 
+## Telegram
+*Telegram libs and frameworks*
+
 ## Parsers
 *parsers libs*
 
