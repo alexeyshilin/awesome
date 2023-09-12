@@ -17,6 +17,9 @@ A list of awesome Erlang frameworks, libraries and software.
 * [webmachine](https://github.com/webmachine/webmachine) - webmachine - A REST-based system for building web applications
 * [yaws](https://github.com/erlyaws/yaws) - Yaws - a webserver for dynamic content written in Erlang
 
+## Networking
+*Networking libraries and frameworks*
+
 ## Distributed Computing, Distributed Applications
 *Frameworks and libraries for distributed computing and applications*
 
