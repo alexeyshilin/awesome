@@ -35,6 +35,7 @@ A list of awesome Erlang frameworks, libraries and software.
 * [semiocast/pgsql](https://github.com/semiocast/pgsql) - Erlang PostgreSQL driver
 * [erleans/pgo](https://github.com/erleans/pgo) - Erlang Postgres client and connection pool
 * [epgsql/pgapp](https://github.com/epgsql/pgapp) - Erlang Postgres application that uses Poolboy and deals with the database being unavailable
+* [klarna/mnesia_pg](https://github.com/klarna/mnesia_pg) - Postgres backend to Mnesia via mnesia_ext
 
 ## Gamedev
 *some game dev frameworks, libs, etc.*
