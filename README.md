@@ -27,6 +27,9 @@ A list of awesome Erlang frameworks, libraries and software.
 
 * [partisan](https://github.com/lasp-lang/partisan) - Partisan High-performance, high-scalability distributed computing
 
+## PostgreSQL
+*PostgreSQL*
+
 ## Gamedev
 *some game dev frameworks, libs, etc.*
 
