@@ -21,7 +21,7 @@ A list of awesome .net (c#, f# etc.) frameworks, libraries and software.
 *Telegram libs and frameworks*
 
 * [wiz0u/WTelegramClient](https://github.com/wiz0u/WTelegramClient) - Telegram Client API (MTProto) library written 100% in C# and .NET
-* [TelegramBots/Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) - .NET Client for Telegram Bot API 
+* [TelegramBots/Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) - .NET Client for Telegram Bot API
 * [TelegramBots/Telegram.Bot.Framework](https://github.com/TelegramBots/Telegram.Bot.Framework) - Simple framework for building Telegram bots
 * [TelegramBotsAPI/Telegram.Bots](https://github.com/TelegramBotsAPI/Telegram.Bots) - wrapper for the Telegram Bot API
 
