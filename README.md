@@ -20,6 +20,8 @@ A list of awesome Erlang frameworks, libraries and software.
 ## Networking
 *Networking libraries and frameworks*
 
+* [ranch](https://github.com/ninenines/ranch) - Socket acceptor pool for TCP protocols
+
 ## Distributed Computing, Distributed Applications
 *Frameworks and libraries for distributed computing and applications*
 
