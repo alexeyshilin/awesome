@@ -32,3 +32,6 @@ A list of awesome Erlang frameworks, libraries and software.
 
 * [essen/egs](https://github.com/essen/egs) - Erlang Game Server
 * [jordillonch/eggs](https://github.com/jordillonch/eggs) - Erlang Generic Game Server
+
+## Blockchain
+*blockchain*
