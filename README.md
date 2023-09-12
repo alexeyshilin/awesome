@@ -32,6 +32,7 @@ A list of awesome Erlang frameworks, libraries and software.
 
 * [wg/epgsql](https://github.com/wg/epgsql) - Erlang PostgreSQL client
 * [epgsql/epgsql](https://github.com/epgsql/epgsql) -  Erlang PostgreSQL client library
+* [semiocast/pgsql](https://github.com/semiocast/pgsql) - Erlang PostgreSQL driver
 
 ## Gamedev
 *some game dev frameworks, libs, etc.*
