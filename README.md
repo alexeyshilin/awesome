@@ -35,3 +35,5 @@ A list of awesome Erlang frameworks, libraries and software.
 
 ## Blockchain
 *blockchain*
+
+* [aeternity](https://github.com/aeternity/aeternity) - aeternity blockchain - scalable blockchain for the people - smart contracts, state channels, names, tokens
